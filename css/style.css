@@ -329,7 +329,8 @@ p {
   align-items: center;
 }
 
-/*service part end*/
+/*service part ends here*/
+
 /*get started part start*/
 .get_started {
   background-image: url(../images/get_started_img_bg.png);
@@ -430,6 +431,7 @@ p {
   border-radius: 10px;
   font-weight: 700;
   transition: 0.4s all ease-in-out;
+  box-shadow: 5px 7px 10px rgb(0 0 0 / 20%);
 }
 
 .get_srated_btn:hover {
@@ -651,7 +653,8 @@ p {
   box-shadow: none !important;
 }
 
-/* accordion section ends*/
+/* accordion section ends here*/
+
 /* footer section starts here */
 footer {
   background-color: #f9f9f9;
@@ -797,3 +800,4 @@ footer::after {
   text-align: end;
   padding-bottom: 15px;
 }
+/* footer part ends header */
